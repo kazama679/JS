@@ -1,0 +1,1 @@
+confirm("bạn đủ 18 tuổi chưa?");
